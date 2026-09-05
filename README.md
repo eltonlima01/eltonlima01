@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**eltonlima01/eltonlima01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Elton Vieira
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Undergraduate in Computer Engineering and bachelor of Interdisciplinary Science and Technology from Universidade Federal Rural do Semi-Árido (UFERSA).
+
+<hr>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltonlima01&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eltonlima01&theme=transparent)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eltonlima01&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eltonlima01&theme=transparent&utcOffset=0)
+
+</div>
